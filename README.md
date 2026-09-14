@@ -1,3 +1,5 @@
+> Legacy standalone edition. Use `../release/` for the current graphical suite, corrected configurations, and ion support. These files are retained for reference.
+
 # TI-84 Evo — Periodic Table Explorer
 
 Look up any element by atomic number, symbol, or name and get its full
